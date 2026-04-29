@@ -3,7 +3,7 @@ layout: single
 title: "Mohammad's resume"
 header:
   overlay_color: "#000"
-navigation: main
+permalink: /resume
 ---
 
 ## Experience
