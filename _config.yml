@@ -3,6 +3,7 @@ title: Mohammad Al-Rammah
 description: "Code, projects, and things I've built along the way."
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 navigation:
   - title: Home
