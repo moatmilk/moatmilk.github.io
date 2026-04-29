@@ -1,7 +1,9 @@
 ---
 layout: single
-title: Resume
-permalink: /resume/
+title: "Mohammad's resume"
+header:
+  overlay_color: "#000"
+navigation: main
 ---
 
 ## Experience

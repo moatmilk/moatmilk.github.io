@@ -1,7 +1,9 @@
 ---
 layout: single
-title: Projects
-permalink: /projects/
+title: "Mohammad's projects!"
+header:
+  overlay_color: "#000"
+navigation: main
 ---
 
 ## Project One
