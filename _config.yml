@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 title: Mohammad Al-Rammah
 description: "Code, projects, and things I've built along the way."
+plugins:
+  - jekyll-remote-theme
