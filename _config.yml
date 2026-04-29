@@ -3,3 +3,11 @@ title: Mohammad Al-Rammah
 description: "Code, projects, and things I've built along the way."
 plugins:
   - jekyll-remote-theme
+
+navigation:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume/
+  - title: Projects
+    url: /projects/
