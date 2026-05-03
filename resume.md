@@ -1,14 +1,7 @@
 ---
-layout: single
 title: "Mohammad Al-Rammah"
-header:
-  overlay_color: "#000"
 permalink: /resume
-classes: wide
----
-
-📍 Seattle, WA &nbsp;|&nbsp; ✉️ [mrammah0@gmail.com](mailto:mrammah0@gmail.com) &nbsp;|&nbsp; 🐙 [github.com/moatmilk](https://github.com/moatmilk) &nbsp;|&nbsp; 💼 [linkedin.com/in/mrammah](https://linkedin.com/in/mrammah/)
-
+excerpt: "Seattle, WA &nbsp;·&nbsp; [mrammah0@gmail.com](mailto:mrammah0@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/moatmilk) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/mrammah/)"
 ---
 
 ## Skills
