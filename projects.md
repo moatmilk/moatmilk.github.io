@@ -1,8 +1,6 @@
 ---
 layout: single
-title: "Mohammad's projects!"
-header:
-  overlay_color: "#000"
+title: "Projects"
 permalink: /projects
 ---
 
