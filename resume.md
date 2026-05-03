@@ -1,27 +1,33 @@
 ---
 layout: single
-title: "Mohammad's Resume"
+title: "Mohammad Al-Rammah"
 header:
   overlay_color: "#000"
 permalink: /resume
+classes: wide
 ---
 
-Seattle, WA | mrammah0@gmail.com | [github.com/moatmilk](https://github.com/moatmilk) | [linkedin.com/in/mrammah](https://linkedin.com/in/mrammah/)
+📍 Seattle, WA &nbsp;|&nbsp; ✉️ [mrammah0@gmail.com](mailto:mrammah0@gmail.com) &nbsp;|&nbsp; 🐙 [github.com/moatmilk](https://github.com/moatmilk) &nbsp;|&nbsp; 💼 [linkedin.com/in/mrammah](https://linkedin.com/in/mrammah/)
 
 ---
 
 ## Skills
 
-| | |
-|---|---|
-| **Programming Languages** | Python, C++, Java |
-| **Databases** | OpenSearch, DynamoDB, Postgres |
-| **API Frameworks** | FastAPI, GraphQL |
-| **AI Frameworks** | LangGraph, LangChain, FastMCP |
-| **Container Orchestration** | AWS ECS |
-| **Data Orchestration** | Dagster, AWS Step Functions |
-| **CI/CD** | GitLab, Bamboo, AWS CodePipeline |
-| **IaC** | AWS CDK, Terraform |
+**Languages:** Python, C++, Java
+
+**Databases:** OpenSearch, DynamoDB, Postgres
+
+**API Frameworks:** FastAPI, GraphQL
+
+**AI Frameworks:** LangGraph, LangChain, FastMCP
+
+**Container Orchestration:** AWS ECS
+
+**Data Orchestration:** Dagster, AWS Step Functions
+
+**CI/CD:** GitLab, Bamboo, AWS CodePipeline
+
+**IaC:** AWS CDK, Terraform
 
 ---
 
