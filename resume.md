@@ -46,6 +46,7 @@ excerpt: "Seattle, WA &nbsp;·&nbsp; [mrammah0@gmail.com](mailto:mrammah0@gmail.
 - Co-authored a PySpark library enabling consistent ETL execution across Databricks and AWS EMR jobs within GovCloud AWS accounts.
 - Built ETL pipelines that processed over 1TB of data from disparate sources into data models supporting financial intelligence analysis.
 - Contributed to the maintenance and evolution of a Databricks-based data lakehouse, supporting reliable data ingestion, schema evolution, and analytical querying.
+
 ---
 
 ## Education
